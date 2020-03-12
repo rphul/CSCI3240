@@ -1,0 +1,4 @@
+EOF
+get hermione
+put ron weasley
+EOF
